@@ -2,6 +2,9 @@
 /**
  * @fileoverview The builder and linker for JS files.
  * @author Arunjit Singh <arunjit@me.com>
+ * @copyright Copyright 2011 Arunjit Singh. All Rights Reserved.
+ * @license MIT license. This notice must be included in all distributions.
+ *     @see http://www.opensource.org/licenses/mit-license.php for details.
  */
 
 /**
